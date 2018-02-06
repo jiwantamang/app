@@ -1,5 +1,7 @@
 package com.mahuriventures.erp.desktop.ui.setting.CustomList;
 
+import com.mahuriventures.erp.desktop.models.ModuleEntity;
+
 import javax.swing.*;
 import java.awt.*;
 
