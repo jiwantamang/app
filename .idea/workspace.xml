@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d432cf2-0232-4732-a4f3-bce68c30a68c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/setting/CustomList/MarketPlaceListModel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/setting/CustomList/ModuleEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/setting/CustomList/ModuleRenderer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/setting/ModuleDetails.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MahuriVenturesERPDesktop.iml" afterPath="$PROJECT_DIR$/MahuriVenturesERPDesktop.iml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/menubar/SettingMenu.java" afterPath="$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/menubar/SettingMenu.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/setting/MarketPlace.java" afterPath="$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/setting/MarketPlace.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/Application$1$1.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/Application$1$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/Application$1.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/Application$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/Application.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/Application.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/ActivatedModuleMenu.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/ActivatedModuleMenu.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/DashBoard.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/DashBoard.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/MainPanel.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/MainPanel.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/controls/MButton.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/controls/MButton.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/discuss/DiscussPanel.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/discuss/DiscussPanel.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/discuss/LeftPanel.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/discuss/LeftPanel.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/discuss/TopPanel.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/discuss/TopPanel.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/discuss/ViewPanel.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/discuss/ViewPanel.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/BillingMenu$1.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/BillingMenu$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/BillingMenu$MouseClickHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/BillingMenu$MouseClickHandler.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/BillingMenu.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/BillingMenu.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/MenuBar.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/MenuBar.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/OrganizationMenu.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/OrganizationMenu.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/SettingMenu$MouseClickHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/SettingMenu$MouseClickHandler.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/SettingMenu.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/menubar/SettingMenu.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/setting/MarketPlace.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/ui/setting/MarketPlace.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/util/ColorCodeConstants.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/util/ColorCodeConstants.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/util/UIStaticConstants.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/desktop/util/UIStaticConstants.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/util/Constants.class" afterPath="$PROJECT_DIR$/target/classes/com/mahuriventures/erp/util/Constants.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MarketPlace.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MarketPlace.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/setting/MarketPlace.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="343">
@@ -81,6 +52,19 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -177,18 +161,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrganizationMenu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/menubar/OrganizationMenu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -242,6 +214,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/setting/CustomList/ModuleRenderer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/setting/ModuleDetails.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mahuriventures/erp/desktop/ui/setting/MarketPlace.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -280,78 +253,6 @@
             <path>
               <item name="MahuriVenturesERPDesktop" type="b2602c69:ProjectViewProjectNode" />
               <item name="MahuriVenturesERPDesktop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MahuriVenturesERPDesktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MahuriVenturesERPDesktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MahuriVenturesERPDesktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MahuriVenturesERPDesktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MahuriVenturesERPDesktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MahuriVenturesERPDesktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MahuriVenturesERPDesktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MahuriVenturesERPDesktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="erp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MahuriVenturesERPDesktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MahuriVenturesERPDesktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="erp" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MahuriVenturesERPDesktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MahuriVenturesERPDesktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="erp" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MahuriVenturesERPDesktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MahuriVenturesERPDesktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="erp" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="menubar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MahuriVenturesERPDesktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MahuriVenturesERPDesktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="erp" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="setting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MahuriVenturesERPDesktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MahuriVenturesERPDesktop" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -510,12 +411,12 @@
       <updated>1517841351082</updated>
       <workItem from="1517841355388" duration="1236000" />
       <workItem from="1517842657145" duration="14980000" />
-      <workItem from="1517882344434" duration="8804000" />
+      <workItem from="1517882344434" duration="9504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25020000" />
+    <option name="totallyTimeSpent" value="25720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-15" y="79" width="1372" height="743" extended-state="6" />
@@ -529,7 +430,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2588997" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2588997" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64239484" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -942,6 +843,17 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
