@@ -31,7 +31,7 @@ public class SettingMenu extends JMenu {
             if(e.getSource() == marketPlace){
                 JFrame frame = (JFrame) JFrame.getFrames()[0];
                 MarketPlace marketPlace = new MarketPlace(frame);
-                marketPlace.setSize(new Dimension((int)(getParent().getParent().getWidth() / 1.5),(int)(getParent().getParent().getHeight()/1.3)));
+                marketPlace.setSize(new Dimension((int)(getParent().getParent().getWidth() / 2.5),(int)(getParent().getParent().getHeight()/1.3)));
                 marketPlace.setLocationRelativeTo(getParent().getParent());
                 marketPlace.setVisible(true);
 

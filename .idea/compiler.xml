@@ -9,8 +9,8 @@
         <module name="MahuriVenturesERPDesktop" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="MahuriVenturesERPDesktop" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="MahuriVenturesERPDesktop" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
