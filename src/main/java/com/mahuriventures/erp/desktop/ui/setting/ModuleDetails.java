@@ -76,8 +76,11 @@ public class ModuleDetails extends JDialog{
         progressBar.setStringPainted(true);
         progressBar.setMinimum(0);
         progressBar.setMaximum(100);
+        progressBar.setSize(new Dimension(panel.getWidth(),100));
         c.gridx = 1;
         c.gridy = 40;
+        c.gridwidth = 4;
+        c.fill = GridBagConstraints.HORIZONTAL;
         panel.add(progressBar,c);
 
 
